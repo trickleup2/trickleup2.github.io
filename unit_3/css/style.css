@@ -1,0 +1,24 @@
+body {
+    background-image: url("/Users/hgreene/Desktop/trickleup2.github.io/unit_3/images/background.jpg");
+    background-size: cover;
+    color: #F2f2f2;
+    text-align: center;
+    font-family: Georgia, sans-serif;
+}
+h1{
+	color: #E2E2E2;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 64px;
+}
+p{
+	font-size: 20px;
+}
+ul{
+	list-style-position: inside;
+}
+#slogan{
+font-weight: 700;
+font-style: italic;
+font-size: 24px;
+}
