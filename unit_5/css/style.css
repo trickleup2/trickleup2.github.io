@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Lato|Special+Elite&subset=latin,latin-ext);
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #F2f2f2;
+    text-align: center;
+}
+
+header{
+	background-image: url("../images/background.jpg");
+    background-size: cover;
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav{
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section{
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#story{
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#mission{
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer{
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1{
+	font-family: 'Special Elite', cursive;
+	color: #E2E2E2;
+	text-transform: uppercase;
+	font-size: 64px;
+}
+
+p{
+	font-size: 20px;
+}
+
+ul{
+	list-style-position: inside;
+}
+
+#slogan{
+	font-weight: 700;
+	font-style: italic;
+	font-size: 24px;
+}
