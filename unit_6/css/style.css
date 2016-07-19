@@ -1,0 +1,158 @@
+@import url(https://fonts.googleapis.com/css?family=Lato|Special+Elite&subset=latin,latin-ext);
+
+body {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+header{
+	background-image: url("../images/background.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
+
+header p{
+	color: #E2E2E2;
+	font-weight: 700;
+	font-size: 24px;
+	padding: 40px;
+}
+
+header a{
+	color: #E2E2E2;
+	text-decoration: none;
+	background-color: #3A1C00;
+	padding: 20px 40px;
+}
+
+nav{
+    padding: 20px;
+}
+
+nav a{
+	color: #E2E2E2;
+	text-decoration: none;
+	display: inline-block;
+	background-color: transparent;
+	padding: 20px 40px;
+	margin: 0px 20px;
+}
+
+nav a:hover{
+	background-color: #3A1C00;
+}
+
+main{
+	background-color: #E3DEDA;
+}
+
+footer{
+    padding: 40px;
+    background-color: #E3B792;
+}
+
+footer a{
+	color: #635040;
+	text-decoration: none;
+}
+
+footer a:hover{
+	color: #A38469;
+}
+
+h1{
+	font-family: 'Special Elite', cursive;
+	color: #E2E2E2;
+	text-transform: uppercase;
+	font-size: 64px;
+	padding: 150px 0px;
+}
+
+h2{
+	font-family: 'Special Elite', cursive;
+	color: #E2E2E2;
+	font-size: 32px;
+}
+
+
+p{
+	font-size: 20px;
+	padding: 10px 0px;
+}
+
+ul{
+	list-style-position: inside;
+	list-style-type: disc;
+	display: inline-block;
+}
+
+li{
+	line-height: 2em;
+	text-align: left;
+}
+
+.clearfix:after{
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#story h2{
+	float: left;
+	padding: 3%;
+	background-color: #636160;
+	margin: 5%;
+	text-transform: uppercase;
+}
+
+#mission{
+	background-color: #E8B999;
+    padding: 20px;
+    width: 50%;
+    margin: 50px auto;
+    border: 5px solid #634F42;
+    line-height: 2em;
+}
+
+#cups{
+    width: 100%;
+}
+
+#menu{
+	padding: 50px;
+	color: #634F42;
+}
+
+#menu h2{
+	color: #634F42;
+	text-decoration: underline;
+	padding: 20px;
+}
+
+#grounds{
+    width: 100%;
+}
+
+#two_column{
+	padding: 10%;
+	color: #E2E2E2;
+}
+
+#left{
+	background-color: #636160;
+	padding: 5%;
+	float: left;
+	width: 25%;
+	margin: 5%;
+}
+
+#right{
+	background-color: #636160;
+	padding: 5%;
+	float: right;
+	width: 25%;
+	margin: 5%;
+}
