@@ -52,9 +52,6 @@ nav a{
 
 nav a:hover{
 	background-color: #3A1C00;
-}
-
-nav a:link{
 	-webkit-transition:color ease-in-out .5s;
 	-moz-transition:color ease-in-out .5s;
 	-o-transition:color ease-in-out .5s;
